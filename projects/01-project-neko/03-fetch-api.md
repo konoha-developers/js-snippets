@@ -2,7 +2,7 @@
 
 The Fetch Api provides a modern interface that allows us to make asynchronous HTTP requests from web browsers to server. If the above sentence doesn't make sense just yet then don't worry. It makes sense as you work more with it. 
 
-Here some resources will be provided which you can use to understand it better. But for this project we will using be the Fetch Api **only** to make basic fetch requests to some third party public apis and get some cata data from their servers. (a third party api is an api provided by somebody else [read more here](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Third_party_APIs)).
+Here some resources will be provided which you can use to understand it better. But for this project we will be using the Fetch Api **only** to make basic fetch requests to some third party public apis and get some cata data from their servers. (a third party api is an api provided by somebody else [read more here](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Third_party_APIs)).
 
 So, first of all we will look at the code to fetch cat data using those third's party Apis. Before going ahead you are recommended to watch [this video](https://www.youtube.com/watch?v=cuEtnrL9-H0) at least till 4:00 minutes for better understanding about fetching the data using Fetch Api.
 
