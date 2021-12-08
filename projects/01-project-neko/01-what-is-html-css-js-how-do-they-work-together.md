@@ -1,7 +1,8 @@
 # 1. What is HTML, CSS, JavaScript ? How do they work together ?
 
 **Note** -  
-**`All the content here is written such that it is easily understandable. For standard definitions and detailed explanation checkout the provided links.`**
+**`All the content here is written such that it is easily understandable with as less 
+complexity as possible. For standard definitions and detailed explanation checkout the provided links.`**
 
 ### HTML
 HTML stands for HyperText Markup Language. It is used for making documents which can be displayed on the browser.  
