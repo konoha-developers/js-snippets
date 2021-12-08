@@ -76,9 +76,9 @@ Note - A base url is the main part of the api url. After that several endpoints,
  
  If you want to see more about how you can do this in a live website and show the data on a webpage then refer this [example website code](https://github.com/konoha-developers/project-neko/blob/main/scripts/main.js).
  
-You can also use below resource to learn more about Fetch Api (though for this project you only need to know the very basic usage already shown above) -
- 1) https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
- 
- 
- 
+  
+## Note - 
+1) You only need to know the basic usage of the Fetch Api for this project which is already shown above.
+2) There is much more to the Fetch Api and to the Apis in general.
+3) As you start working on more projects you will most probably start using things like async-await syntax for asynchronous programming and dealing with apis, sometimes you would be using popular libraries like axios to make requests, use tool like postman to test some api or use it while developing your own api, etc. Often while developing something with api you will come across terms like Rest Api, Api protocols, etc. **In short you don't need to know all of this just yet**. As you build more stuff you will become aware about this but for now you just need to know that such things exist.
  
