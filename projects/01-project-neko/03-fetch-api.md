@@ -14,7 +14,7 @@ Note - A base url is the main part of the api url. After that several endpoints,
 
 ```js
 // fetch a single cat fact
-// (here /facts is an endpoint that gives us facts(by default 4 facts) and /facts/random gives back one random fact)
+// (here /facts is an endpoint that gives us facts(by default 5 facts) and /facts/random gives back one random fact)
         fetch("https://cat-fact.herokuapp.com/facts/random")
         .then((res)=> res.json())
         .then((data)=>{
