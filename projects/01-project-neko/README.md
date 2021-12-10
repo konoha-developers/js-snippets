@@ -10,10 +10,8 @@ All the articles or snippets given below are kept short and written such that it
 | 03 | Fetch Api for Beginners| [Link](https://github.com/konoha-developers/project-snippets/blob/main/projects/01-project-neko/03-fetch-api.md)|
 | 04 | Ways to style some html element| [Link](https://github.com/konoha-developers/project-snippets/blob/main/projects/01-project-neko/04-ways-to-style-some-html-element.md)|
 | 05 | Project Setup | [Link](https://github.com/konoha-developers/project-snippets/blob/main/projects/01-project-neko/05-project-setup.md)|
-| 06* |Project Hosting| [Link](https://github.com/konoha-developers/project-snippets/blob/main/projects/01-project-neko/06-project-hosting.md)|
-| 07* | Making Pull Request and Finishing the Project| [Link](https://github.com/konoha-developers/project-snippets/blob/main/projects/01-project-neko/07-making-pull-request-and-finishing-the-project.md)|
-
-*article no. 6 and 7 will be made available on 9th december.
+| 06 |Project Hosting| [Link](https://github.com/konoha-developers/project-snippets/blob/main/projects/01-project-neko/06-project-hosting.md)|
+| 07 | Making Pull Request and Finishing the Project| [Link](https://github.com/konoha-developers/project-snippets/blob/main/projects/01-project-neko/07-making-pull-request-and-finishing-the-project.md)|
 
 [starter template](https://github.com/konoha-developers/project-neko-starter)
 
